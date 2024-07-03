@@ -12,3 +12,7 @@ This Prjoect is incomplete and Currently being worked on!!
 > This Rust Kernal only supports Basic Input/Output System (BIOS) firmware standard as it is simple and easy to implement I could have implementd Unified Extensible Firmware Interface (UEFI) but that's a lot of work :kissing: will leave that for later...
 
 attached img: <img src="/DocsImg/KernalPrint.png">
+
+
+> todo
+> - vga_buffers
